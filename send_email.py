@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 # 이메일 설정
 sender_email = "waveshare0906@gmail.com"  # 발신자 이메일 주소
 sender_password = "lghulltgbhpaybcf"  # 발신자 이메일 비밀번호 또는 앱 비밀번호
-recipient_email = "ahrim.lee@balc.co.kr"  # 수신자 이메일 주소
+recipient_email = "ialim551@gmail.com"  # 수신자 이메일 주소
 
 # HTML 내용 (email_template.html의 HTML 코드를 그대로 붙여넣기)
 html_content = """
@@ -54,7 +54,7 @@ html_content = """
         <h1 style="font-size: 35px; color: #333; margin-bottom: 10px">
           연령을 인증해 주세요
         </h1>
-        <p style="font-size: 16px; color: #555">장원 님, 안녕하세요.</p>
+        <p style="font-size: 16px; color: #555">아림 님, 안녕하세요.</p>
         <p style="font-size: 16px; color: #555">
           현재 연령 인증 시스템 도입으로 인해 Netflix에서 성인 등급의 동영상
           시청이 제한되어 있습니다.
